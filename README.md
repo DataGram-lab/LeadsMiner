@@ -1,6 +1,9 @@
 # 🚀 LeadsMiner — The Smarter Way to Get Real, Targeted Leads Without Running Any Ads
 
-[![Watch the video](https://img.youtube.com/vi/z2lxD6VvDhI/0.jpg)](https://youtu.be/z2lxD6VvDhI)
+<a href="https://youtu.be/z2lxD6VvDhI" target="_blank">
+  <img src="https://img.youtube.com/vi/z2lxD6VvDhI/0.jpg" alt="Watch the video" width="100%" style="max-width: 700px; border: 1px solid #ccc;">
+  <p><strong>▶️ Click to watch the video demo</strong></p>
+</a>
 
 ## 🔍 What is it?
 
@@ -25,7 +28,8 @@
 
 ---
 
-![LeadsMiner Screenshot](https://i.ibb.co/kstLLfrp/LeadsMiner.png)
+<img src="https://i.ibb.co/kstLLfrp/LeadsMiner.png" alt="LeadsMiner Screenshot" width="100%" style="max-width: 700px; border: 1px solid #ccc;">
+
 ### ⚠️ First-Time Installation Notice
 
 Once you install and open LeadsMiner for the first time, you’ll see a message saying:
